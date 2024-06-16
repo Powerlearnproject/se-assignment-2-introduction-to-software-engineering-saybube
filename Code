@@ -82,15 +82,15 @@ The modules have clear responsibilities, well-defined interfaces for interaction
 
 Modularity improves maintability by 
 
-a. Targeted Troubleshooting: When issues arise, pinpointing the root cause becomes a breeze. Developers can isolate the problem to a specific module, significantly reducing debugging time.
-b. Surgical Modifications: Updates or changes to functionalities are confined within their respective modules. This minimizes the risk of unintended consequences in other parts of the system. 
-c. Reusable Components: Well-designed modules become valuable assets and they can be reused across different projects, saving development time and effort. 
+1. Targeted Troubleshooting: When issues arise, pinpointing the root cause becomes a breeze. Developers can isolate the problem to a specific module, significantly reducing debugging time.
+2. Surgical Modifications: Updates or changes to functionalities are confined within their respective modules. This minimizes the risk of unintended consequences in other parts of the system. 
+3. Reusable Components: Well-designed modules become valuable assets and they can be reused across different projects, saving development time and effort. 
 
 Modularity improves scalability by
 
-a. Modular Growth: As your software evolves and new features are demanded, you can seamlessly add new modules without disrupting the existing system's core functionality.
-b. Independent Scaling: Individual modules can be scaled up or down based on their specific needs. For instance, if a particular module handles intensive calculations, you can allocate more resources to it without affecting other modules.
-c. Parallel Development: Modularity allows for concurrent development and testing of different modules. This can significantly accelerate the overall development process. 
+1. Modular Growth: As your software evolves and new features are demanded, you can seamlessly add new modules without disrupting the existing system's core functionality.
+2. Independent Scaling: Individual modules can be scaled up or down based on their specific needs. For instance, if a particular module handles intensive calculations, you can allocate more resources to it without affecting other modules.
+3. Parallel Development: Modularity allows for concurrent development and testing of different modules. This can significantly accelerate the overall development process. 
 
 Testing in Software Engineering:
 
@@ -110,13 +110,13 @@ Software needs rigorous testing at various stages to ensure it functions correct
 
 Importance of Testing in Software Development:
 
-a. Early Bug Detection: Testing helps identify and fix bugs early in the development process. This is much easier and cheaper than fixing issues after the software is deployed. 
+1. Early Bug Detection: Testing helps identify and fix bugs early in the development process. This is much easier and cheaper than fixing issues after the software is deployed. 
 
-b. Improved Quality: Rigorous testing leads to a more robust, reliable software product. Users experience fewer crashes, errors, and unexpected behavior. 
+2. Improved Quality: Rigorous testing leads to a more robust, reliable software product. Users experience fewer crashes, errors, and unexpected behavior. 
 
-c. Enhanced User Experience: Testing ensures the software is intuitive, user-friendly, and meets user expectations. 
+3. Enhanced User Experience: Testing ensures the software is intuitive, user-friendly, and meets user expectations. 
 
-d. Reduced Risk of Failure: By uncovering potential issues before release, testing mitigates the risk of costly software failures that can damage reputation and business. 
+4. Reduced Risk of Failure: By uncovering potential issues before release, testing mitigates the risk of costly software failures that can damage reputation and business. 
 
 Version Control Systems:
 
